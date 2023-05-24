@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pbgunion/static/css/main.818e4d1a.css",
+    "main.js": "/pbgunion/static/js/main.f48dd6a5.js",
+    "static/js/787.4599b505.chunk.js": "/pbgunion/static/js/787.4599b505.chunk.js",
+    "index.html": "/pbgunion/index.html",
+    "main.818e4d1a.css.map": "/pbgunion/static/css/main.818e4d1a.css.map",
+    "main.f48dd6a5.js.map": "/pbgunion/static/js/main.f48dd6a5.js.map",
+    "787.4599b505.chunk.js.map": "/pbgunion/static/js/787.4599b505.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.818e4d1a.css",
+    "static/js/main.f48dd6a5.js"
+  ]
+}
